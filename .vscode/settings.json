@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://jpopykqe:v26pkpKHEZLHQX4i1-OJOJc5SVY8A18t@peanut.db.elephantsql.com/jpopykqe",
+            "name": "cd_db"
+        }
+    ]
+}
